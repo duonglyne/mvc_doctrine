@@ -17,7 +17,7 @@ class Database
 			'driver'   => 'pdo_mysql',
 			'user'     => 'root',
 			'password' => '',
-			'dbname'   => 'aht_mvc_ex1',
+			'dbname'   => 'mvc_doctrine',
 		);
 		$paths = array("/path/to/entity-files");
 		$isDevMode = true;
